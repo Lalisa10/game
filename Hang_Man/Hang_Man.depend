@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676553940 source:e:\game\hang_man\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+
